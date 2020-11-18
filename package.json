@@ -1,0 +1,23 @@
+{
+  "name": "timescheduler-app",
+  "version": "1.0.0",
+  "description": "Node.js-Express.js-MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kether180/timeScheduler-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kether180/timeScheduler-app/issues"
+  },
+  "homepage": "https://github.com/Kether180/timeScheduler-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3"
+  }
+}
